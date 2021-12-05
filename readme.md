@@ -9,8 +9,4 @@ The rule is that if a task is written in a language and then re-written in somet
 * Day2: Bash
 * Day3: Python
 * Day4: c++
-
-#### Reclaimed languages
-* Erlang
-* JavaScript
-* Ruby
+* Day5: Ruby
