@@ -10,3 +10,27 @@ The rule is that if a task is written in a language and then re-written in somet
 * Day3: Python
 * Day4: c++
 * Day5: Groovy
+
+####  Candidate languages
+* Erlang
+* Haskell
+* Clojure
+* Prolog
+* Ruby
+* JavaScript
+* Java
+* Kotlin
+* Scala
+* C#
+* Go
+* php
+* Typescript
+* Rust
+* Perl
+* Lua
+* Elm
+* Elixir
+* CoffeScript
+* ML
+* Perl
+* Powershell
