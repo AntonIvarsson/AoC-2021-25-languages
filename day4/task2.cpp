@@ -117,7 +117,7 @@ int calculate_score(int score[5][5], vector<vector<int> > board, int number) {
 
 int main()
 {
-  tuple<vector<vector<vector<int> > > , vector<int> > input = getInput("Day4input.txt");
+  tuple<vector<vector<vector<int> > > , vector<int> > input = getInput("input.txt");
   vector<vector<vector<int> > > boards = get<0>(input);
   vector<int> numbers = get<1>(input);
   int scores[BOARDS][5][5] = {0};

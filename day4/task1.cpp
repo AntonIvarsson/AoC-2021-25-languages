@@ -139,8 +139,3 @@ int main()
   }
   return 0;
 }
-
-
-
-// for (int i=0; i < bingoNumbers.size(); i++)
-    //     printf("%d ", bingoNumbers[i]);
