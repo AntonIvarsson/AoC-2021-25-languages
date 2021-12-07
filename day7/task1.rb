@@ -27,9 +27,7 @@ lowestPos = 1/0.0
     cost = 0
     state.each() do |pos|
         val = (pos - j).abs()
-        (1..val).each do |c|
-            cost = cost + c
-        end
+        cost = cost + (val*(val+1))/2
     end
     if cost < lowestCost
         lowestCost = cost

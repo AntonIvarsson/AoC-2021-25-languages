@@ -22,7 +22,6 @@ The rule is that if a task is written in a language and then re-written in somet
 * JavaScript
 * Typescript
 * CoffeScript
-* Ruby
 * Java
 * Kotlin
 * C#
