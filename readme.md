@@ -11,7 +11,7 @@ The rule is that if a task is written in a language and then re-written in somet
 * Day4: c++
 * Day5: Groovy
 * Day6: Pearl
-* Day7: Ruby
+* Day7: Rust
 
 ####  Candidate languages
 * Erlang
@@ -28,7 +28,7 @@ The rule is that if a task is written in a language and then re-written in somet
 * Scala
 * Go
 * php
-* Rust
+* Ruby
 * Lua
 * Elm
 * ML
